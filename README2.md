@@ -27,7 +27,17 @@
 
 
 
-There are some potential limitations to this analysis.  
+### There are some potential limitations to this analysis.  
+
+* These specific dataset references are not broken down by location, which could skew results if client interested in specific country.
+* 
+
+### Recommendation for Additional Analysis:
+*
+*
+
+
+
 
 
 
