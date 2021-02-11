@@ -1,14 +1,14 @@
 # Analysis of Launch Date and Funding Goals on Kickstarter Campaigns
 ---
-Performing analysis on Kickstarter launch date and funding goals to determine impact on theater funding.
+## Performing analysis on Kickstarter launch date and funding goals to determine impact on theater funding.
 ---
-The following is a summary of findings from the data:
+### The following is a summary of findings from the Launch Date data:
 
 * The most successful time to launch a theater funding campaign is during May and June.
-* These two months have the highest number of successful outcomes, and the highest success rate
+* May & June have the highest number of successful outcomes, and the highest success rate
 
 * The least favorable month to initiate a campaign would be December, as this month has the lowest
-* number of successful campaigns, and a nearly equal amount of failure.
+  number of successful campaigns, and a nearly equal amount of failure.
 
 ![Theatre_Outcomes_vs_Launch](https://user-images.githubusercontent.com/71041680/107595064-a41b5380-6be1-11eb-9389-b920079df519.png)
 
