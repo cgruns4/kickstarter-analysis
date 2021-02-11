@@ -1,6 +1,6 @@
 # Analysis of Launch Date and Funding Goals on Kickstarter Campaigns
 ---
-## Performing analysis on Kickstarter to determine launch date impact on overall theater underwriting, and the influence of funding goals Play funding.
+## Performing analysis on Kickstarter to determine launch date impact on overall theater underwriting, and the influence of funding goals on Play funding.
 ---
 ### Summary of findings from the Launch Date data on Theater funding:
 
