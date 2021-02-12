@@ -30,11 +30,11 @@
 ### There are some potential limitations to this analysis.  
 
 * These specific dataset references are not broken down by location, which could skew results if client interested in specific country.
-* 
+* This data only includes two subset conditions of a larger data set being modeled. 
 
 ### Recommendation for Additional Analysis:
-*
-*
+* Fully analyze complete dataset to provide more thorough analysis
+* Recommend adding pivot table and pivot chart in order to examine overall data in more detail
 
 
 
